@@ -1,6 +1,7 @@
 # Reseach-Agent-using-Metaphor
 
 Mini research agent using OpenAI Function Call and Metaphor APIs (https://metaphor.systems/)
+
 Frontend is built with Chainlit
 
 ## 🚀 Getting Started
