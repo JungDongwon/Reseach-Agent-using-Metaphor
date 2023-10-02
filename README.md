@@ -4,7 +4,7 @@ Mini research agent using OpenAI Function Call and Metaphor APIs (https://metaph
 
 Frontend is built with Chainlit. Demo is available [here](https://www.youtube.com/watch?v=1V1AStPO_5Y). 
 
-## Funcitonalities
+## ⚙️ Functionalities
 
 1. Chitchat: The agent can have normal conversation.
 2. Search Papers: The agent can search research papers related to the requested topic.
